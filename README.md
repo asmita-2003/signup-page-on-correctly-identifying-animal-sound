@@ -34,3 +34,5 @@ The core functionality of the page revolves around correctly identifying the ani
 Users are prompted to listen to a random animal sound and select the corresponding animal from the dropdown.
 If the selected animal matches the played sound, a success message is displayed, indicating a successful signup.
 This interactive element adds an engaging and entertaining aspect to the signup process, making the page more memorable and enjoyable for users.
+
+![image](https://github.com/asmita-2003/signup-page-on-correctly-identifying-animal-sound/assets/161740703/2c16fe84-721e-4f43-aca0-a32603c30909)
